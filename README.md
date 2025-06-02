@@ -10,7 +10,7 @@
 - 💬 Live code execution using Piston API
 - 🧠 Smart CodeMirror editor
 - 📥 Input/output support
-- 💾 Save as `.py`, `.cpp`, `.js`, etc.
+- 💾 Save as `.py`, `.cpp`, and `.java`
 - ♻️ Reset/Clear support
 - ⚡ Responsive design
 
